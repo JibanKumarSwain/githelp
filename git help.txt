@@ -22,7 +22,7 @@ commit the changes and add a message describing the changes:
 
 
 $ git commit -m "Initial commit"
-
+$ git commit -m main/master  (we can choose to what we use main / master)
 
 
 
